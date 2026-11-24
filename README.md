@@ -1,4 +1,4 @@
-# Project 5 — AWS Domain Migration (xyz.com → abc.com)
+# AWS Domain Migration (xyz.com → abc.com)
 
 A portfolio-ready, Terraform-driven reference implementation for migrating a domain while keeping the old hostname available as a permanent redirect.
 
